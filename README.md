@@ -1,1 +1,1 @@
-# fuzzy-lamp — local AIP test app
+# fuzzy-lamp
