@@ -1,1 +1,1 @@
-# fuzzy-lamp — AIP local demo
+# fuzzy-lamp — AIP demo
